@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Pushkar Adhikari",
+    "label": "Software Engineer",
+    "picture": "images/padhikari.webp",
+    "x_pictureFallback": "images/padhikari.jpg",
+    "x_title": "Hey, I'm Pushkar! Glad to virtually meet you",
+    "summary": "Currently I’m working as frontend software developer exploring the JavaScript world. I’m interested in building and resolving the design problems, all sorts of automation and developing front-end and back-end applications (DevOps Enthusiats).",
+    "location": {
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "Würzburg"
+    },
+    "profiles": [
+      {
+        "network": "Medium",
+        "username": "padhikari1991",
+        "url": "https://medium.com/@pushkaradhikari1991",
+        "x_icon":"fab fa-2x fa-medium"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Pushkar Adhikari",
+        "url": "https://www.linkedin.com/in/pushkar-adhikari-aab260a2/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "DevPushkar",
+        "url": "https://github.com/DevPushkar",
+        "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Facebook",
+        "username": "pushkar.adhikari.75",
+        "url": "https://www.facebook.com/pushkar.adhikari.75",
+        "x_icon": "fab fa-2x fa-facebook"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "tech11",
+      "position": "Frontend Developer",
+      "website": "https://tech11.com/de/",
+      "startDate": "2020-07-01",
+      "endDate": "",
+      "summary": "Joined in the frontend team, Together with the frontend team, I'm responsible for developing UI/UX (visual elements that users see and interact with in a platform) Being involved in tech team from start(scratch) has been great experience. I like to code things from scratch, and enjoy bringing ideas and values to the browser.",
+      "highlights": []
+    },
+    {
+      "company": "BPEX GmBH",
+      "position": "Fullstack Web Developer",
+      "website": "https://www.bpex.de/#/",
+      "startDate": "2019-09-01",
+      "endDate": "2020-06-00",
+      "summary": "Joined BPEX software development team,  to designing and developing an application for information security management as well as providing support and happiness to their customers on banking software for order management system",
+      "highlights": []
+    },
+    {
+      "company": "Kiel University of Applied Sciences",
+      "position": "Master degree in Information Engineeering",
+      "website": "https://www.fh-kiel.de/startseite/",
+      "startDate": "2016-10-01",
+      "endDate": "",
+      "summary": "Joined Fachhochschule Kiel, for my master degree in Information Engineering and completed the course by specializing on Information Technology & Software Development",
+      "highlights": []
+    },
+    {
+      "company": "Softech Foundation",
+      "position": "Mid level Software Developer",
+      "website": "https://www.softechfoundation.com/",
+      "startDate": "2016-06-01",
+      "endDate": "",
+      "summary": "I worked on a management system project with a team members of 3 and, I used to developing, designing as well as providing the support to customers",
+      "highlights": []
+    },
+    {
+      "company": "SPI Nepal",
+      "position": "Trainee Software Engineer",
+      "website": "https://www.cognizant.com",
+      "startDate": "2015-06-01",
+      "endDate": "",
+      "summary": "Started my first professional developer experience as a Trainee Software Engineer for SPI Nepal, My first real work experience. Entering as a Trainee Software Engineer, I was able to learn and explore way more than the workings of a big IT Infrastructure. I also got th opportunity to work in both on-site and offshore team.",
+      "highlights": []
+    },
+    {
+      "company": "Pokhara University (Everest Engineering & Management College)",
+      "position": "Computer Engineering",
+      "website": "Bachelor",
+      "startDate": "2010-01-01",
+      "endDate": "",
+      "summary": "I Joined the Computer Engineering courses to gain and develop the knowledge and skills required to design, develop and implement todays IT infrastructure, during my studies, I was foused on the courses: Object Oriented Programming, Database Management Systems, Operating systems and computers architectures, Software Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Containers",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "JavaScript Framework (Angular, React, Vue)",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "NodeJs, GraphQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git, GitLab, Bitbucket",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MSSQL, MySQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel",
+      "x_icon": "fa-globe-asia"
+    },
+    {
+      "name": "Hiking",
+      "x_icon": "fas fa-hiking"
+    },
+    {
+      "name": "Live in the present",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
